@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yaroslav and I'm an iOS developer, since 2019</h2>
+<h2 align="left">Hi 👋! My name is Yaroslav and I'm an iOS developer👨‍💻, since 2019🚀</h2>
 
 <h3 align="left">Github Stats</h2>
 <div align="center">
@@ -9,6 +9,14 @@
 
 <div align="center">
     <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31j5clbhzsrfpm2sibptlcjowpbe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+    - 🔭 I’m currently working on [Kyivstar TV](https://apps.apple.com/ua/app/kyivstar-tv/id1489731090?l=ru)
+  
+    - 👨‍💻 I have developed Apple TV 📺 application from scratch
+
+    - 🌱 I’m currently learning Python  
+
+    - ⚡ Fun fact: I use tabs over spaces  
+    
   <h3 align="left">Languages</h2>
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" width="42" alt="swift logo"  />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="30" width="42" alt="objectivec logo"  />
