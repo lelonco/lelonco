@@ -9,7 +9,8 @@
 
 <div align="center">
     <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31j5clbhzsrfpm2sibptlcjowpbe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-    - 🔭 I’m currently working on [Kyivstar TV](https://apps.apple.com/ua/app/kyivstar-tv/id1489731090?l=ru)
+    
+    - 🔭 I’m currently working on <a href="https://apps.apple.com/ua/app/kyivstar-tv/id1489731090?l=ru">Kyivstar TV</a>
   
     - 👨‍💻 I have developed Apple TV 📺 application from scratch
 
