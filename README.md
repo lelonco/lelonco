@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lelonco/lelonco/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lelonco/lelonco/output/snake.svg" alt="Snake animation" />
 
 ###
 
