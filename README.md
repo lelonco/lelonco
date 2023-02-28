@@ -6,7 +6,7 @@
 <picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/overview.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/overview.svg"></picture>
 
 </div>
-
+<h3 align="left">About me</h2>
 <div align="center">
     <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31j5clbhzsrfpm2sibptlcjowpbe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
 <div align="left">
@@ -27,7 +27,7 @@
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <div align="left"> 
   </br>
-    <h3 align="left">Contact me</h2>
+    <h3 align="left">Connect with me</h2>
   <a href="mailto:fast.yarik@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
