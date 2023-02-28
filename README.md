@@ -1,12 +1,9 @@
 <h2 align="left">Hi 👋! My name is Yaroslav and I'm an iOS developer, from 2019</h2>
 
 ###
-https://github.com/lelonco/GitHub-Stats-Visualization/blob/master/generated/auto/overview.svg
-
-
 <div align="center">
-[<picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/blob/master/generated/auto/languages.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/blob/master/generated/auto/languages.svg"></picture>](https://github.com/lelonco/github-stats#readme)
-  [<picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/blob/master/generated/auto/overview.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/blob/master/generated/auto/overview.svg"></picture>](https://github.com/lelonco/github-stats#readme)
+[<picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/languages.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/languages.svg"></picture>]
+  [<picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/overview.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/overview.svg"></picture>]
 
 </div>
 
