@@ -15,7 +15,8 @@
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="30" width="42" alt="objectivec logo"  />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="30" width="42" alt="python logo"  />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-    <a href="fast.yarik@gmail.com" target="_blank">
+  <div align="left"  
+  <a href="fast.yarik@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/yaroslav-arkushenko/" target="_blank">
@@ -24,6 +25,7 @@
   <a href="https://t.me/imroslav" target="_blank">
     <img align="left" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
+  </div>
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31j5clbhzsrfpm2sibptlcjowpbe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
 </div>
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31j5clbhzsrfpm2sibptlcjowpbe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
