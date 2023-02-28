@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yaroslav and I'm an iOS developer, from 2019</h2>
+<h2 align="left">Hi 👋! My name is Yaroslav and I'm an iOS developer, since 2019</h2>
 
 ###
 <div align="center">
