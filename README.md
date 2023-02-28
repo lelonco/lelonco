@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Yaroslav and I'm an iOS developer, since 2019</h2>
 
-###
+###Github Stats
 <div align="center">
 <picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/languages.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/languages.svg"></picture>
 <picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/overview.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/overview.svg"></picture>
@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" width="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+<div align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31j5clbhzsrfpm2sibptlcjowpbe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 ###
 
 <div align="left">
@@ -40,8 +39,3 @@
 
 <img src="https://raw.githubusercontent.com/lelonco/lelonco/output/snake.svg" alt="Snake animation" />
 
-###
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31j5clbhzsrfpm2sibptlcjowpbe&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31j5clbhzsrfpm2sibptlcjowpbe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31j5clbhzsrfpm2sibptlcjowpbe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-###
