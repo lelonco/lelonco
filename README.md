@@ -1,10 +1,13 @@
 <h2 align="left">Hi 👋! My name is Yaroslav and I'm an iOS developer, from 2019</h2>
 
 ###
+https://github.com/lelonco/GitHub-Stats-Visualization/blob/master/generated/auto/overview.svg
+
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=lelonco](https://github.com/lelonco/GitHub-Stats-Visualization/blob/master/generated/auto/languages.svg)" height="150" alt="stats graph"  />
-  <img src="h[ttps://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=lelonco](https://github.com/lelonco/GitHub-Stats-Visualization/blob/master/generated/auto/overview.svg)" height="150" alt="languages graph"  />
+[<picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/blob/master/generated/auto/languages.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/blob/master/generated/auto/languages.svg"></picture>](https://github.com/lelonco/github-stats#readme)
+  [<picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/blob/master/generated/auto/overview.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/blob/master/generated/auto/overview.svg"></picture>](https://github.com/lelonco/github-stats#readme)
+
 </div>
 
 ###
