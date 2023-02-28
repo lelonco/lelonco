@@ -2,8 +2,8 @@
 
 ###
 <div align="center">
-[<picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/languages.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/languages.svg"></picture>]
-  [<picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/overview.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/overview.svg"></picture>]
+<picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/languages.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/languages.svg"></picture>
+<picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/overview.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/overview.svg"></picture>
 
 </div>
 
