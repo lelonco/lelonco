@@ -37,7 +37,11 @@
   <a href="https://t.me/imroslav" target="_blank">
     <img align="left" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
+    </br>
+        </br>
   </div>
+  <div align="left">
+  <img align="left" src="https://komarev.com/ghpvc/?username=lelonco&style=for-the-badge"  />
 </div>
 
 <br clear="both">
