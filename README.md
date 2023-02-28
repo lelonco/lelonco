@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Yaroslav and I'm an iOS developer, since 2019</h2>
 
-###Github Stats
+<h3 align="left">Github Stats</h2>
 <div align="center">
 <picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/languages.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/languages.svg"></picture>
 <picture><source media="(prefers-color-scheme: auto)" srcset="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/overview.svg"><img alt="Languages used by User Name" src="https://raw.githubusercontent.com/lelonco/GitHub-Stats-Visualization/master/generated/auto/overview.svg"></picture>
@@ -9,7 +9,6 @@
 
 ###
 
-<div align="center">
 <div align="center">
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" width="42" alt="swift logo"  />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="30" width="42" alt="objectivec logo"  />
