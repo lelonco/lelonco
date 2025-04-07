@@ -8,7 +8,7 @@
 </div>
 <h3 align="left">About me</h2>
 <div align="center">
-    <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31j5clbhzsrfpm2sibptlcjowpbe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+    <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31j5clbhzsrfpm2sibptlcjowpbe&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" />
 <div align="left">
     
 - 🔭 I’m currently working on [Kyivstar TV](https://apps.apple.com/ua/app/kyivstar-tv/id1489731090?l=ru)
